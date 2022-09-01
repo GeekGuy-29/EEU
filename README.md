@@ -5,13 +5,13 @@
 > This project is carried out in an efficient and systematic manner. The methodology used in here is, Arduino UNO is used as the microcontroller that connects the sensor with the Input/Output devices. So, whenever the temperature in the unit fluctuates, it immediately checks if the fans’ speed have to be controlled or not. As programmed, of the temperature increases, the speed of the fan increases and as the temperature decreases, the speed of the fan decreases, Maintaining an adequate temperature in the unit as well as cooling it.
 
 ## Components used in this project
-> Arduino UNO
-> L298 Motor Driver
-> DHT 11 Temperature and Humidity Sensor
-> 12 V DC Fan
-> 12 VPower Source
-> 16*2 LCD Display
-> I2C Module and Jumper Cables
+1. Arduino UNO
+2. L298 Motor Driver
+3. DHT 11 Temperature and Humidity Sensor
+4. 12 V DC Fan
+5. 12 VPower Source
+6. 16*2 LCD Display
+7. I2C Module and Jumper Cables
 
 ## Conclsion
 > It’s mainly effective for cooling the units which contain any product that can get damaged due to moisture. As we know, there are dairy products, dry products which have to be kept away from moisture hence this concept would be efficient and come in handy to create a win-win situation. As the system is efficient enough, large amount of power can be saved and can be stored in any form or can be used in any other function of the unit.
