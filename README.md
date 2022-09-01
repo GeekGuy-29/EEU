@@ -13,6 +13,10 @@
 6. 16*2 LCD Display
 7. I2C Module and Jumper Cables
 
+## Circuit Layout
+
+>![Circuit Diagram](https://user-images.githubusercontent.com/74554911/187993158-0370d3fc-d529-4a90-beba-ecc1b4469829.png)
+
 ## Conclsion
 > It’s mainly effective for cooling the units which contain any product that can get damaged due to moisture. As we know, there are dairy products, dry products which have to be kept away from moisture hence this concept would be efficient and come in handy to create a win-win situation. As the system is efficient enough, large amount of power can be saved and can be stored in any form or can be used in any other function of the unit.
 
