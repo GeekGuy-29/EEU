@@ -5,6 +5,7 @@
 > This project is carried out in an efficient and systematic manner. The methodology used in here is, Arduino UNO is used as the microcontroller that connects the sensor with the Input/Output devices. So, whenever the temperature in the unit fluctuates, it immediately checks if the fans’ speed have to be controlled or not. As programmed, of the temperature increases, the speed of the fan increases and as the temperature decreases, the speed of the fan decreases, Maintaining an adequate temperature in the unit as well as cooling it.
 
 ## Components used in this project
+
 1. Arduino UNO
 2. L298 Motor Driver
 3. DHT 11 Temperature and Humidity Sensor
@@ -23,4 +24,4 @@
 ## Proof of Working
 > The proof can be found in [here](https://github.com/GeekGuy-29/EEU/blob/main/Proof%20of%20Working.pdf)
 
-Built by : Chiranjeev
+Built by : [Chiranjeev](https://github.com/GeekGuy-29)
